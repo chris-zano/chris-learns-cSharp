@@ -1,0 +1,14 @@
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\bin\Release\net8.0\Calculator_Intro.exe
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\bin\Release\net8.0\Calculator_Intro.deps.json
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\bin\Release\net8.0\Calculator_Intro.runtimeconfig.json
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\bin\Release\net8.0\Calculator_Intro.dll
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\bin\Release\net8.0\Calculator_Intro.pdb
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.AssemblyInfoInputs.cache
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.AssemblyInfo.cs
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.csproj.CoreCompileInputs.cache
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.dll
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\refint\Calculator_Intro.dll
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.pdb
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\Calculator_Intro.genruntimeconfig.cache
+C:\Users\niico\Code\C#\source\repos\Calculator_Intro\obj\Release\net8.0\ref\Calculator_Intro.dll

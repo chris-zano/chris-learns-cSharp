@@ -1,0 +1,14 @@
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\bin\Debug\net8.0\IntroductionToC#.exe
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\bin\Debug\net8.0\IntroductionToC#.deps.json
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\bin\Debug\net8.0\IntroductionToC#.runtimeconfig.json
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\bin\Debug\net8.0\IntroductionToC#.dll
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\bin\Debug\net8.0\IntroductionToC#.pdb
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.AssemblyInfoInputs.cache
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.AssemblyInfo.cs
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.csproj.CoreCompileInputs.cache
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.dll
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\refint\IntroductionToC#.dll
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.pdb
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\IntroductionToC#.genruntimeconfig.cache
+C:\Users\niico\Code\C#\source\repos\IntroductionToC#\obj\Debug\net8.0\ref\IntroductionToC#.dll
