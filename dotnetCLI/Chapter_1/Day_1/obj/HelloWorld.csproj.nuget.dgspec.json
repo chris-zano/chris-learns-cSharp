@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\Chapter_1\\Day_1\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\Chapter_1\\Day_1\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\Chapter_1\\Day_1\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\Chapter_1\\Day_1\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\niico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\niico\\Code\\C#\\dotnetCLI\\Chapter_1\\Day_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
